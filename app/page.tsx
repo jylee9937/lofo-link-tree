@@ -24,6 +24,14 @@ export default function IndexPage() {
       </div>
       <div className="flex gap-4 flex-col">
         <Link
+          href="https://forms.gle/WWRP22e2GpcSVYSq7"
+          target="_blank"
+          rel="noreferrer"
+          className={cn(buttonVariants({variant: "outline"}), "w-full")}
+        >
+          🙏청년사역컨퍼런스 등록하기
+        </Link>
+        <Link
           href="https://forms.gle/F2m8ov1LxNcZfH94A"
           target="_blank"
           rel="noreferrer"
