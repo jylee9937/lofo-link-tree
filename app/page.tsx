@@ -24,12 +24,12 @@ export default function IndexPage() {
       </div>
       <div className="flex gap-4 flex-col">
         <Link
-          href="https://forms.gle/WWRP22e2GpcSVYSq7"
+          href="https://forms.gle/NnW6nzYZkjFheqBQ8"
           target="_blank"
           rel="noreferrer"
           className={cn(buttonVariants({variant: "outline"}), "w-full")}
         >
-          🙏청년사역컨퍼런스 등록하기
+          🙏1분 만에 온라인 양육모임 2기 신청
         </Link>
         <Link
           href="https://forms.gle/F2m8ov1LxNcZfH94A"
@@ -37,7 +37,7 @@ export default function IndexPage() {
           rel="noreferrer"
           className={cn(buttonVariants({variant: "outline"}), "w-full")}
         >
-          🙏1분 만에 오프라인 예배 신청하기
+          🙏1분 만에 오프라인 예배 신청
         </Link>
         <Link
           href="https://forms.gle/2zaJAK1HkM8gC5zZ7"
@@ -45,7 +45,7 @@ export default function IndexPage() {
           rel="noreferrer"
           className={cn(buttonVariants({variant: "outline"}), "w-full")}
         >
-          🙏1분 만에 온라인 예배 신청하기
+          🙏1분 만에 온라인 예배 신청
         </Link>
         <Link
           href="https://www.youtube.com/@jvmusic5778"
@@ -53,7 +53,7 @@ export default function IndexPage() {
           rel="noreferrer"
           className={cn(buttonVariants({variant: "outline"}), "w-full")}
         >
-          🎧JV Worship가기
+          🎧JV Worship
         </Link>
         <Link
           href="https://www.youtube.com/@JVTV22200"
@@ -61,7 +61,7 @@ export default function IndexPage() {
           rel="noreferrer"
           className={cn(buttonVariants({variant: "outline"}), "w-full")}
         >
-          📺JVTV 바로가기
+          📺JVTV
         </Link>
       </div>
       <div className="flex flex-col items-center">
